@@ -1,12 +1,3 @@
-/*
- *  Copyright (C) BayesTree Inc - All Rights Reserved
- *
- *  Proprietary and Confidential.
- *  Unauthorized copying, editing, reproduction, redistribution, modification, creation of derivative works, translation, decompilation, reverse engineering,
- *  disassembling or hacking of any source code, header files, libraries of the software, via any medium is strictly prohibited.
- *
- */
-
 package com.bt
 
 import org.apache.spark.broadcast.Broadcast
