@@ -14,6 +14,10 @@ The program in a loop:
 
 After about 10 runs (takes ~20minutes), it ends with OOME. 
 
+## Fix
+This issue is not found if all the input files are merged to a single file.  
+Can only be reproduced when each document is in a separate file.
+
 ## Heap dump details
 
 The biggest objects in the heapdump:
