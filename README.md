@@ -27,3 +27,12 @@ The biggest objects in the heapdump:
 Further debug:
 
 ![image](inside.png)
+
+## Other details:
+
+Spark 2.3.0
+JDK8
+SBT 1.1.6
+Ubuntu 18.04
+Intel(R) Core(TM) i7-7700HQ CPU @ 2.80GHz
+
