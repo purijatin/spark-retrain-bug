@@ -3,7 +3,7 @@
 This is a reproducible for a probable-spark bug.
 
 ```
-To run: sbt -mem 1500 run
+To run: sbt clean -mem 1500 run
 ```
 
 The program in a loop:

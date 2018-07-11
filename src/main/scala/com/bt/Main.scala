@@ -23,7 +23,7 @@ object Main {
     } {
       val data = new DataReader(spark).data
 
-      val pipelineData: Pipeline = new Pipeline().setStages(english("reviewtext") ++ english("summary"))
+      val pipelineData: Pipeline = new Pipeline().setStages(english("summary"))
 
       val pipelineModel = pipelineData.fit(data)
 
