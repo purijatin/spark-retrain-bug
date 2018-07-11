@@ -30,7 +30,7 @@ Further debug:
 
 ## Other details:
 
-Spark 2.3.0
+Spark 2.3.1
 JDK8
 SBT 1.1.6
 Ubuntu 18.04

@@ -1,7 +1,7 @@
 import sbt._
 
 object Dependencies {
-  val sparkVersion = "2.3.0"
+  val sparkVersion = "2.3.1"
 
   val spark = Seq(
     "org.apache.spark" %% "spark-core" % sparkVersion withSources(),
